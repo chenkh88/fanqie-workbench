@@ -26,7 +26,7 @@
 
 ## 快速开始
 
-1. **下载** [番茄工作台.exe](https://github.com/你的用户名/你的仓库/releases/latest)（16 MB，单文件）
+1. **下载** [fanqie-workbench-v1.0.0.exe](https://github.com/chenkh88/fanqie-workbench/releases/latest)（16 MB，单文件）
 2. **放到任意普通文件夹**（桌面、D 盘、U 盘都行），**双击运行**
 3. 第一次会静默解压约 4 秒（屏幕上没有提示，别以为卡住），然后弹出窗口
 4. 点 **【自动获取登录状态】** → 在弹出的专用浏览器窗口里扫码登录番茄 → 凭证自动保存
